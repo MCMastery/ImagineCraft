@@ -1,0 +1,5 @@
+name: ImagineCraft
+version: 0.0.1
+description: Plugin for the ImagineCraft server
+author: MCMastery
+main: net.imaginecraft.plugin.ImagineCraft
