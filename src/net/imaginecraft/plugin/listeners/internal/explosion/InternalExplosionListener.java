@@ -1,13 +1,9 @@
 package net.imaginecraft.plugin.listeners.internal.explosion;
 
 import net.imaginecraft.plugin.ImagineCraft;
-import net.imaginecraft.plugin.Player;
-import net.imaginecraft.plugin.listeners.ChatFormatter;
 import net.imaginecraft.plugin.listeners.ClaimProtector;
-import net.imaginecraft.plugin.listeners.LandClaimer;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
-import org.bukkit.event.block.BlockExplodeEvent;
 import org.bukkit.event.entity.EntityExplodeEvent;
 
 import java.util.HashSet;

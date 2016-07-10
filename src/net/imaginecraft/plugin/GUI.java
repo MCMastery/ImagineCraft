@@ -1,7 +1,6 @@
 package net.imaginecraft.plugin;
 
 import net.imaginecraft.plugin.listeners.internal.guiclick.GUIClickListener;
-import net.imaginecraft.plugin.utils.LogUtils;
 import net.imaginecraft.plugin.utils.StringUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.inventory.Inventory;

@@ -3,7 +3,6 @@ package net.imaginecraft.plugin.listeners.internal;
 import net.imaginecraft.plugin.ImagineCraft;
 import net.imaginecraft.plugin.commands.Command;
 import net.imaginecraft.plugin.utils.CommandUtils;
-import net.imaginecraft.plugin.utils.LogUtils;
 import net.imaginecraft.plugin.utils.MessageUtils;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

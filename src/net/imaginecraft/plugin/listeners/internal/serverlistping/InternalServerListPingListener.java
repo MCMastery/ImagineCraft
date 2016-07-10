@@ -1,15 +1,11 @@
 package net.imaginecraft.plugin.listeners.internal.serverlistping;
 
 import net.imaginecraft.plugin.ImagineCraft;
-import net.imaginecraft.plugin.Player;
-import net.imaginecraft.plugin.listeners.PlayerUnloader;
-import net.imaginecraft.plugin.listeners.QuitMessenger;
 import net.imaginecraft.plugin.listeners.ServerInfo;
 import net.imaginecraft.plugin.utils.LogUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
-import org.bukkit.util.CachedServerIcon;
 
 import java.util.HashSet;
 import java.util.Set;

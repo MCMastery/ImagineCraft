@@ -2,7 +2,6 @@ package net.imaginecraft.plugin.commands;
 
 import net.imaginecraft.plugin.ImagineCraft;
 import net.imaginecraft.plugin.Player;
-import net.imaginecraft.plugin.utils.StringUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.command.CommandSender;
 

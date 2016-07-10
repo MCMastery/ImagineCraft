@@ -5,7 +5,6 @@ import net.imaginecraft.plugin.Player;
 import net.imaginecraft.plugin.listeners.ClaimProtector;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
-import org.bukkit.event.block.BlockFromToEvent;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,12 +1,8 @@
 package net.imaginecraft.plugin.listeners.internal.entitydamageentity;
 
 import net.imaginecraft.plugin.listeners.internal.CancellableEvent;
-import org.bukkit.Location;
-import org.bukkit.block.Block;
 import org.bukkit.entity.Entity;
 import org.bukkit.event.entity.EntityDamageEvent;
-
-import java.util.List;
 
 public class EntityDamageEntity implements CancellableEvent {
     private final Entity entity, damager;

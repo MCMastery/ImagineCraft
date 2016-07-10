@@ -1,7 +1,10 @@
 package net.imaginecraft.plugin.commands;
 
 import net.imaginecraft.plugin.Player;
-import net.imaginecraft.plugin.commands.overridden.*;
+import net.imaginecraft.plugin.commands.overridden.OverriddenKillCommand;
+import net.imaginecraft.plugin.commands.overridden.OverriddenMeCommand;
+import net.imaginecraft.plugin.commands.overridden.OverriddenTellCommand;
+import net.imaginecraft.plugin.commands.overridden.OverriddenVersionCommand;
 import net.imaginecraft.plugin.utils.LogUtils;
 import net.imaginecraft.plugin.utils.MessageUtils;
 import org.bukkit.command.CommandSender;

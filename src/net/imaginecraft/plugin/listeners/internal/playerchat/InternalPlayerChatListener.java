@@ -3,7 +3,6 @@ package net.imaginecraft.plugin.listeners.internal.playerchat;
 import net.imaginecraft.plugin.ImagineCraft;
 import net.imaginecraft.plugin.Player;
 import net.imaginecraft.plugin.listeners.ChatFormatter;
-import net.imaginecraft.plugin.listeners.WelcomeMessenger;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 

@@ -1,7 +1,8 @@
 package net.imaginecraft.plugin;
 
 import net.imaginecraft.plugin.commands.Command;
-import net.imaginecraft.plugin.listeners.internal.*;
+import net.imaginecraft.plugin.listeners.internal.InternalPlayerCommandListener;
+import net.imaginecraft.plugin.listeners.internal.InternalServerCommandListener;
 import net.imaginecraft.plugin.listeners.internal.blockbreak.InternalBlockBreakListener;
 import net.imaginecraft.plugin.listeners.internal.blockplace.InternalBlockPlaceListener;
 import net.imaginecraft.plugin.listeners.internal.bucketempty.InternalBucketEmptyListener;
@@ -28,9 +29,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 import java.io.File;
 import java.io.IOException;
 import java.lang.management.ManagementFactory;
-import java.lang.reflect.Method;
-import java.net.URL;
-import java.net.URLClassLoader;
 import java.util.ArrayList;
 import java.util.List;
 

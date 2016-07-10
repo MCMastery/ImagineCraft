@@ -3,13 +3,8 @@ package net.imaginecraft.plugin.listeners.internal.guiclick;
 import net.imaginecraft.plugin.GUI;
 import net.imaginecraft.plugin.Player;
 import net.imaginecraft.plugin.listeners.internal.CancellableEvent;
-import org.bukkit.Location;
-import org.bukkit.block.Block;
-import org.bukkit.event.inventory.ClickType;
 import org.bukkit.event.inventory.InventoryAction;
 import org.bukkit.inventory.ItemStack;
-
-import java.util.List;
 
 public class GUIClickEvent implements CancellableEvent {
     private final Player player;

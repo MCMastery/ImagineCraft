@@ -4,7 +4,6 @@ import net.imaginecraft.plugin.ImagineCraft;
 import net.imaginecraft.plugin.Player;
 import net.imaginecraft.plugin.ServerInfoUpdater;
 import net.imaginecraft.plugin.listeners.WelcomeMessenger;
-import net.imaginecraft.plugin.utils.LogUtils;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 

@@ -3,13 +3,7 @@ package net.imaginecraft.plugin.utils;
 import net.imaginecraft.plugin.ImagineCraft;
 import org.bukkit.Bukkit;
 
-import java.io.BufferedInputStream;
-import java.io.BufferedOutputStream;
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
+import java.io.*;
 import java.lang.reflect.Method;
 import java.net.URL;
 import java.net.URLClassLoader;

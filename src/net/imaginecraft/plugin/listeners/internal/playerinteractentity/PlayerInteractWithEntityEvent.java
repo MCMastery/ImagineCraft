@@ -2,11 +2,7 @@ package net.imaginecraft.plugin.listeners.internal.playerinteractentity;
 
 import net.imaginecraft.plugin.Player;
 import net.imaginecraft.plugin.listeners.internal.CancellableEvent;
-import org.bukkit.block.Block;
-import org.bukkit.block.BlockFace;
 import org.bukkit.entity.Entity;
-import org.bukkit.event.block.Action;
-import org.bukkit.inventory.ItemStack;
 
 public class PlayerInteractWithEntityEvent implements CancellableEvent {
     private final Player player;

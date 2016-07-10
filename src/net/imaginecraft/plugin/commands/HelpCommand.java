@@ -1,7 +1,10 @@
 package net.imaginecraft.plugin.commands;
 
 import net.imaginecraft.plugin.Player;
-import net.imaginecraft.plugin.utils.*;
+import net.imaginecraft.plugin.utils.CommandUtils;
+import net.imaginecraft.plugin.utils.MathUtils;
+import net.imaginecraft.plugin.utils.MessageUtils;
+import net.imaginecraft.plugin.utils.StringUtils;
 import org.bukkit.command.CommandSender;
 
 import java.util.List;

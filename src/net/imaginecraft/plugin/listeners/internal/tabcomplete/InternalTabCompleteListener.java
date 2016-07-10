@@ -1,9 +1,7 @@
 package net.imaginecraft.plugin.listeners.internal.tabcomplete;
 
 import net.imaginecraft.plugin.ImagineCraft;
-import net.imaginecraft.plugin.Player;
 import net.imaginecraft.plugin.listeners.CommandTabCompleter;
-import org.bukkit.Bukkit;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 
